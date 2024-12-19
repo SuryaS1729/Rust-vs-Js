@@ -9,7 +9,7 @@ fn main() {
     }
 
     let duration = start.elapsed();
-    println!("Rust execution time: {:?}", duration);
+    println!("Rust execution time is: {:?}", duration);
     println!("Sum: {}", sum);
 }
 
